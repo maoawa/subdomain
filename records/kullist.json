@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "zingky"
+  },
+  "domain": "kullist",
+  "records": {
+    "CNAME": "zingky.github.io"
+  },
+  "proxied": false
+}
