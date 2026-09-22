@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "theprojectmaker",
+    "email": "solomonsasson031@gmail.com"
+  },
+  "domain": "beam",
+  "records": {
+    "CNAME": "beam-gateway.pages.dev"
+  },
+  "proxied": false
+}
