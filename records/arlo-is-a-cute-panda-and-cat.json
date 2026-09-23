@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "Flowerr4sr0",
+    "email": "arlorecchia123@gmail.com"
+  },
+  "domain": "arlo-is-a-cute-panda-and-cat",
+  "records": {
+    "CNAME": [
+      "cname.short.io"
+    ]
+  },
+  "proxied": false
+}
